@@ -2,6 +2,12 @@
 layout: default
 ---
 
+<div style="display: none;">
+  <style>
+    header, .page-header, .repo-header, .project-name { display: none !important; }
+  </style>
+</div>
+
 # Alejo Cohen | Portfolio
 **Técnico en Sonido, Electrónica y Grabación | Estudiante de Ingeniería de Sonido (UNTREF) | Encargado de Producción en Quagliardi Pro Audio**
 
