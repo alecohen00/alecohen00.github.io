@@ -26,31 +26,11 @@ Portfolio
 ## 📁 Proyectos Académicos y Soluciones Técnicas
 *Desarrollo de proyectos con rigor profesional, orientados a brindar soluciones reales bajo estándares internacionales, dentro de un marco académico.*
 
-* **Procesamiento Digital de Señales (DSP):** Desarrollo de herramientas en Python para el análisis de parámetros acústicos (ISO 3382), cálculo de aislamiento y algoritmos de reducción de ruido.
-* **Acústica Arquitectónica y Control de Ruido:** Diagnóstico y caracterización de recintos de alta complejidad, como la Usina del Arte y Control Rooms, junto con planes de mitigación de ruido urbano.
-* **Electroacústica y Ensayos Normalizados:** Diseño y construcción de hardware de audio y ejecución de ensayos de laboratorio bajo normas ISO (Potencia acústica y Absorción).
+* **Procesamiento Digital de Señales (DSP) y Software:** Desarrollo de herramientas computacionales (Python y Excel) para el cálculo predictivo de aislamiento acústico (ISO 12354-1), análisis de parámetros mediante RI (ISO 3382) y algoritmos de sustracción espectral para la reducción de ruido.
+* **Acústica Arquitectónica y Control de Ruido:** Diagnóstico *in-situ*, caracterización y simulación predictiva 3D (EASE) de recintos de alta complejidad, como la Usina del Arte y salas de control, junto con estudios de impacto y planes de mitigación de ruido urbano.
+* **Electroacústica, Hardware y Ensayos Normalizados:** Diseño de circuitos, simulación y construcción de equipamiento analógico (preamplificadores valvulares, sistemas estéreo) y ejecución de ensayos de laboratorio bajo normativas ISO (Potencia Acústica y Absorción).
 
-[Ver el detalle de todos los proyectos, informes y código →](proyectos.md)
-
-
-
-
-## 📁 Proyectos Académicos y Prácticos
-
-### 1. Procesamiento Digital de Señales (DSP) y Software
-* **Software de cálculo acústico (ISO 3382):** Desarrollo de software de cálculo y análisis de parámetros acústicos mediante RI.
-* **Cálculo de aislamiento acústico (ISO 717-1 e ISO 12354-1):** Desarrollo de herramientas de cálculo de parámetros de aislamiento acústico de paredes.
-* **Reducción de ruido:** Implementación de algoritmos de sustracción espectral para reducción de ruido en señales, y evaluación con parámetros cuantitativos objetivos.
-
-### 2. Acústica Arquitectónica y Control de Ruido
-* **Control Room Syntagma:** Medición y diagnóstico de control room.
-* **Sala de Conciertos:** Caracterización acústica integral de sala de conciertos con medición in-situ.
-* **Control de Ruido Urbano:** Diagnóstico y control de ruido urbano en predio deportivo vecinal.
-
-### 3. Electroacústica y Ensayos Normalizados
-* **Barra de Sonido Estéreo:** Diseño, construcción y medición de barra de sonido estéreo hogareña.
-* **Potencia Acústica de Electrodomésticos:** Medición de potencia acústica de electrodomésticos (ISO 3743-2).
-* **Coeficiente de Absorción:** Medición de coeficiente de absorción de una muestra (ISO 354).
+[Ver el detalle de todos los proyectos, informes, simulaciones y código →](proyectos.md)
 
 ---
 
