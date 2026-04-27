@@ -1,6 +1,6 @@
 ---
-layout:default
-title:""
+layout: default
+title: ""
 ---
 
 # Alejo Cohen | Portfolio
