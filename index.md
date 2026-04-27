@@ -2,7 +2,7 @@
 layout: default
 ---
 
-*Técnico en Sonido, Electrónica y Grabación | Estudiante de Ingeniería de Sonido (UNTREF) | Encargado de Producción en Quagliardi Pro Audio*
+**Técnico en Sonido, Electrónica y Grabación** | **Estudiante de Ingeniería de Sonido (UNTREF)** | **Encargado de Producción en Quagliardi Pro Audio**
 
 ¡Hola! Soy un estudiante avanzado de Ingeniería con experiencia laboral en electrónica de audio, en búsqueda de profesionalizarme en el ámbito de la Ingeniería Acústica. Me motiva la resolución de problemas, el trabajo en equipo y valoro fuertemente la experiencia práctica como vía de aprendizaje. Te doy la bienvenida a mi portfolio, donde presentaré los diversos proyectos que desarrollé durante mi carrera universitaria y en mis experiencias laborales.
 
