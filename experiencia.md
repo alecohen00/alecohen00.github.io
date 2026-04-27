@@ -1,6 +1,5 @@
 # Trayectoria Profesional en Quagliardi Pro Audio | Alejo Cohen
 
-# Quagliardi Pro Audio
 *Empresa argentina de fabricación de equipos para estudios de grabación y sonido en vivo.*
 
 * **Asistente Técnico (04/2023 - 03/2024):** Mi comienzo en la empresa coincidió con los primeros años de la misma. 
