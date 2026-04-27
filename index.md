@@ -1,5 +1,6 @@
 ---
 layout: default
+title: ""
 ---
 
 # Alejo Cohen | Portfolio
