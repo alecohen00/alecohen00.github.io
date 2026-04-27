@@ -5,8 +5,6 @@ layout: default
   .page-header { display: none !important; }
 </style>
 
-# alejocohen.github.io
-
 # Alejo Cohen | Portfolio
 **Técnico en Sonido, Electrónica y Grabación | Estudiante de Ingeniería de Sonido (UNTREF) | Encargado de Producción en Quagliardi Pro Audio**
 
