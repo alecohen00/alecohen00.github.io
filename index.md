@@ -1,4 +1,6 @@
 ---
+layout:none
+---
 
 # Alejo Cohen | Portfolio
 **Técnico en Sonido, Electrónica y Grabación | Estudiante de Ingeniería de Sonido (UNTREF) | Encargado de Producción en Quagliardi Pro Audio**
