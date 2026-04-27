@@ -2,7 +2,14 @@
 layout: default
 ---
 <style>
-  .page-header { display: none !important; }
+  header, 
+  .page-header, 
+  .repo-header, 
+  .project-name, 
+  .project-tagline, 
+  header.site-header { 
+    display: none !important; 
+  }
 </style>
 
 # Alejo Cohen | Portfolio
