@@ -58,4 +58,47 @@ layout: default
 ## 💻 Software y Herramientas Técnicas
 * **Simulación y Medición:** Smaart V7, REW EQ, COMSOL Multiphysics, EASE, VituixCAD2, Basta, Arta.
 
+<style>
+  .barra-contacto {
+    position: fixed;
+    left: 20px;
+    top: 50%;
+    transform: translateY(-50%);
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    background: #ffffff;
+    padding: 15px 10px;
+    border-radius: 12px;
+    box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.15);
+    z-index: 1000;
+  }
+  .barra-contacto a {
+    transition: transform 0.2s ease;
+    display: block;
+  }
+  .barra-contacto a:hover {
+    transform: scale(1.15);
+  }
+  /* Oculta la barra en celulares para que no tape el texto de tu portfolio */
+  @media (max-width: 850px) {
+    .barra-contacto {
+      display: none;
+    }
+  }
+</style>
+
+<div class="barra-contacto">
+  <a href="mailto:alecohen00@gmail.com" target="_blank" title="Enviame un correo">
+    <img src="https://img.icons8.com/color/48/gmail-new.png" width="40" alt="Email">
+  </a>
+  
+  <a href="https://linkedin.com/in/alejo-cohen-b427b020a" target="_blank" title="Mi LinkedIn">
+    <img src="https://img.icons8.com/color/48/linkedin.png" width="40" alt="LinkedIn">
+  </a>
+
+  <a href="https://github.com/alejocohen" target="_blank" title="Mi GitHub">
+    <img src="https://img.icons8.com/fluent/48/github.png" width="40" alt="GitH  ub">
+  </a>
+</div>
 
