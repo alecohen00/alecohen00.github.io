@@ -2,13 +2,6 @@
 layout: default
 ---
 
-<style>
-  
-  h1 a { display: none !important; }
-  
-  header, .page-header { display: none !important; }
-</style>
-
 # Alejo Cohen | Portfolio
 **Técnico en Sonido, Electrónica y Grabación | Estudiante de Ingeniería de Sonido (UNTREF) | Encargado de Producción en Quagliardi Pro Audio**
 
