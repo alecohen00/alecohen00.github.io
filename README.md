@@ -6,7 +6,7 @@ Portfolio
 ¡Hola! Soy un estudiante avanzado de Ingeniería con experiencia laboral en electrónica de audio, en búsqueda de profesionalizarme en el ámbito de la Ingeniería Acústica. Me motiva la resolución de problemas, el trabajo en equipo y valoro fuertemente la experiencia práctica como vía de aprendizaje. Te doy la bienvenida a mi portfolio, donde presentaré los diversos proyectos que desarrollé durante mi carrera universitaria y en mis experiencias laborales.
 
 <div align="center">
-  <h3>Video de presentación</h3>
+  <h3>Video de Presentación</h3>
   <a href="https://www.youtube.com/watch?v=2wZCUniVo-U">
     <img src="https://img.youtube.com/vi/2wZCUniVo-U/maxresdefault.jpg" width="600" style="border-radius:10px;">
   </a>
