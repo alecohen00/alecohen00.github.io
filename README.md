@@ -6,10 +6,18 @@ Portfolio
 ¡Hola! Soy un estudiante avanzado de Ingeniería con experiencia laboral en electrónica de audio, en búsqueda de profesionalizarme en el ámbito de la Ingeniería Acústica. Me motiva la resolución de problemas, el trabajo en equipo y valoro fuertemente la experiencia práctica como vía de aprendizaje. Te doy la bienvenida a mi portfolio, donde presentaré los diversos proyectos que desarrollé durante mi carrera universitaria y en mis experiencias laborales.
 
 <div align="center">
-  <h3>Video de Presentación</h3>
-  <a href="https://www.youtube.com/watch?v=2wZCUniVo-U">
-    <img src="https://img.youtube.com/vi/2wZCUniVo-U/maxresdefault.jpg" width="600" style="border-radius:10px;">
-  </a>
+  <div>
+    <h3 style="margin: 0;">
+      <a href="https://www.youtube.com/watch?v=2wZCUniVo-U">
+                Video de Presentación
+      </a>
+    </h3>
+  </div>
+  <div>
+    <a href="https://www.youtube.com/watch?v=2wZCUniVo-U">
+      <img src="https://img.icons8.com/ios-filled/100/fa314a/play-button-circled.png"
+     width="60">
+  </div>
 </div>
 
 ---
@@ -29,7 +37,13 @@ Portfolio
 [Ver detalle de la trayectoria profesional y logros →](experiencia.md)
 
 ## 📁 Proyectos Académicos y Soluciones Técnicas
-*Desarrollo de proyectos con rigor profesional, orientados a brindar soluciones reales bajo estándares internacionales, dentro de un marco académico.*
+*Desarrollo de proyectos con rigor profesional, orientados a brindar soluciones reales bajo estándares internacionales, dentro de un marco académico, en la Universidad Nacional de Tres de Febrero (UNTREF).*
+
+
+<div align="center">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrAty6s5Inh_be8cxXeQD36AW4UZVjyBkIsw&s" width="300">
+</div>
+
 
 * **Procesamiento Digital de Señales (DSP) y Software:** Desarrollo de herramientas computacionales (Python y Excel) para el cálculo predictivo de aislamiento acústico (ISO 12354-1), análisis de parámetros mediante RI (ISO 3382) y algoritmos de sustracción espectral para la reducción de ruido.
 * **Acústica Arquitectónica y Control de Ruido:** Diagnóstico *in-situ*, caracterización y simulación predictiva 3D (EASE) de recintos de alta complejidad, como la Usina del Arte y salas de control, junto con estudios de impacto y planes de mitigación de ruido urbano.
