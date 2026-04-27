@@ -1,5 +1,3 @@
-# alecohen00.github.io
-Portfolio
 # Alejo Cohen | Portfolio de Ingeniería de Sonido
 **Técnico en Sonido, Electrónica y Grabación | Estudiante de Ingeniería de Sonido (UNTREF) | Encargado de Producción en Quagliardi Pro Audio**
 
