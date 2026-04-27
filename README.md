@@ -16,12 +16,23 @@ Portfolio
   <img src="https://github.com/user-attachments/assets/9ffce634-91e5-4192-8988-ed290a3cc567" width="500" style="background-color: transparent; border: none; box-shadow: none;">
   </p>
   
-  Empresa argentina de fabricación de equipos para estudios de grabación y sonido en vivo.
+  *Empresa argentina de fabricación de equipos para estudios de grabación y sonido en vivo.*
 
   * **Encargado de Producción (2024 - Presente):** Liderazgo del área de producción.
   * **Asistente Técnico (04/2023 - 03/2024):** Armado, soldado, ensamble, reparación y calibración de equipamiento.
 
 [Ver detalle de la trayectoria profesional y logros →](experiencia.md)
+
+## 📁 Proyectos Académicos y Soluciones Técnicas
+*Desarrollo de proyectos con rigor profesional, orientados a brindar soluciones reales bajo estándares internacionales, dentro de un marco académico.*
+
+* **Procesamiento Digital de Señales (DSP):** Desarrollo de herramientas en Python para el análisis de parámetros acústicos (ISO 3382), cálculo de aislamiento y algoritmos de reducción de ruido.
+* **Acústica Arquitectónica y Control de Ruido:** Diagnóstico y caracterización de recintos de alta complejidad, como la Usina del Arte y Control Rooms, junto con planes de mitigación de ruido urbano.
+* **Electroacústica y Ensayos Normalizados:** Diseño y construcción de hardware de audio y ejecución de ensayos de laboratorio bajo normas ISO (Potencia acústica y Absorción).
+
+[Ver el detalle de todos los proyectos, informes y código →](proyectos.md)
+
+
 
 
 ## 📁 Proyectos Académicos y Prácticos
