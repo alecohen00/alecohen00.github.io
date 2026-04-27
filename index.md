@@ -58,6 +58,11 @@ layout: default
 ## 💻 Software y Herramientas Técnicas
 * **Simulación y Medición:** Smaart V7, REW EQ, COMSOL Multiphysics, EASE, VituixCAD2, Basta, Arta.
 
+## Contacto
+* **Celular:** +5491130848105
+
+* **Mail:** alecohen00@gmail.com
+
 <style>
   .barra-contacto {
     position: fixed;
